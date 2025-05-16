@@ -1,0 +1,23 @@
+Preview of CSV content:
+     Id  MSSubClass MSZoning  LotFrontage  LotArea Street Alley LotShape  \
+0  1461          20       RH         80.0    11622   Pave   NaN      Reg   
+1  1462          20       RL         81.0    14267   Pave   NaN      IR1   
+2  1463          60       RL         74.0    13830   Pave   NaN      IR1   
+3  1464          60       RL         78.0     9978   Pave   NaN      IR1   
+4  1465         120       RL         43.0     5005   Pave   NaN      IR1   
+
+  LandContour Utilities  ... ScreenPorch PoolArea PoolQC  Fence MiscFeature  \
+0         Lvl    AllPub  ...         120        0    NaN  MnPrv         NaN   
+1         Lvl    AllPub  ...           0        0    NaN    NaN        Gar2   
+2         Lvl    AllPub  ...           0        0    NaN  MnPrv         NaN   
+3         Lvl    AllPub  ...           0        0    NaN    NaN         NaN   
+4         HLS    AllPub  ...         144        0    NaN    NaN         NaN   
+
+  MiscVal MoSold  YrSold  SaleType  SaleCondition  
+0       0      6    2010        WD         Normal  
+1   12500      6    2010        WD         Normal  
+2       0      3    2010        WD         Normal  
+3       0      6    2010        WD         Normal  
+4       0      1    2010        WD         Normal  
+
+[5 rows x 80 columns]
